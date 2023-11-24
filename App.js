@@ -6,7 +6,7 @@ import FeedScreen from './FeedScreen';
 import AddPostScreen from './AddPostScreen';
 
 const Stack = createStackNavigator();
-
+// console.log("")
 const App = () => {
   return (
     <NavigationContainer>
